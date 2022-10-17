@@ -80,27 +80,28 @@ r(Y_test,preds)
 
 
 ## Dataset Information
-![image](https://user-images.githubusercontent.com/114344373/192256700-ee189e60-3ceb-4b4e-9938-6653e8698a30.png)
+![image](https://user-images.githubusercontent.com/75235813/189538394-40eec53b-a6aa-4ea2-bc62-0631958cb7b1.png)
 
 
 
 ## OUTPUT
 
-### Training Loss Vs Iteration Plot
+### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://user-images.githubusercontent.com/114344373/192256931-e80dec71-19ba-40fb-a8e8-869881a32969.png)
+![image](https://user-images.githubusercontent.com/75235813/189538471-bd92a874-ba80-4714-b005-b7de74d1c5bf.png)
 
+### Classification Report
 
+![image](https://user-images.githubusercontent.com/75235813/189538508-c3918f90-7041-4324-966f-1becca9ee18d.png)
 
-### Test Data Root Mean Squared Error
+### Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/114344373/192257040-0eabc06f-6f17-497b-a137-f2f9fd6243f8.png)
+![image](https://user-images.githubusercontent.com/75235813/189538524-e1fac22d-152c-4d15-8df3-7d4ed3976b98.png)
 
 
 ### New Sample Data Prediction
 
-![image](https://user-images.githubusercontent.com/114344373/192257123-c7f6180f-6cbe-4a6a-ae09-5ff2690f1887.png)
-
+![image](https://user-images.githubusercontent.com/75235813/189538551-ba7ad872-cbfc-4b8d-9c25-474b6c2e456c.png)
 
 ## RESULT
-Thus to develop a neural network model for the given dataset has been implemented successfully.
+Thus,the neural network classification model for the given dataset is developed.
